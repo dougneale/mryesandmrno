@@ -1,16 +1,14 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Mr Yes and Mr No food stall
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Chicken wings that'll make your auntie sing.
 mainpitch:
-  title: Why Kaldi
+  title: Mr Yes and Mr No
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Chicken wings that'll make your auntie sing and sides so good they'll distract your creepy uncle.
+    Find our market bbq stall location on the feed.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
